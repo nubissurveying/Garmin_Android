@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/cal/Desktop/ForNubis/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/build/intermediates/res/merged/debug/layout/activity_device.xml",
+        "source": "/Users/cal/Desktop/ForNubis/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/res/layout/activity_device.xml"
+    },
+    {
+        "merged": "/Users/cal/Desktop/ForNubis/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/cal/Desktop/ForNubis/connectiq-mobile-sdk-android-1.4/Sample/Comm/app/src/main/res/layout/activity_main.xml"
+    }
+]
